@@ -2,12 +2,12 @@
   "name": "interline-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Somewhat dark theme for the Atom text editor",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/interline-syntax",
+  "repository": "https://github.com/ericbastarache/interline-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
